@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GisArshinRequesterConsole", "GisArshinRequesterConsole\GisArshinRequesterConsole.csproj", "{FD24FB5B-4C45-4726-92C3-84B923E95CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GisArshinRequesterLib", "GisArshinRequesterLib\GisArshinRequesterLib.csproj", "{6536F310-B5E6-4F3F-8C1F-EC402837789F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD24FB5B-4C45-4726-92C3-84B923E95CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD24FB5B-4C45-4726-92C3-84B923E95CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD24FB5B-4C45-4726-92C3-84B923E95CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD24FB5B-4C45-4726-92C3-84B923E95CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6536F310-B5E6-4F3F-8C1F-EC402837789F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6536F310-B5E6-4F3F-8C1F-EC402837789F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6536F310-B5E6-4F3F-8C1F-EC402837789F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6536F310-B5E6-4F3F-8C1F-EC402837789F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C214DD-8A62-460C-90A5-8D6AB92C30FB}
+	EndGlobalSection
+EndGlobal
