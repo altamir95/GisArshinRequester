@@ -3,7 +3,7 @@
 namespace GisArshinRequesterLib
 {
     /// <summary>Результат запроса</summary>
-    public class Result<T>
+    public class VriResult<T>
     {
         /// <summary>Количество найденных по запросу элементов</summary>
         [JsonPropertyName("count")]
