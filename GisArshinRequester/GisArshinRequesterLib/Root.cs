@@ -6,7 +6,7 @@ namespace GisArshinRequesterLib
     {
         /// <summary>Результат запроса</summary>
         [JsonPropertyName("result")]
-        public Result<T> Result { get; set; }
+        public VriResult<T> Result { get; set; }
     }
 }
 
